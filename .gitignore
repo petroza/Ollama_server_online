@@ -1,0 +1,17 @@
+app_settings.json
+db.sqlite
+*.sqlite
+.env
+*.log
+*.zip
+agent_storage.json
+cookies.json
+storage_state.json
+cache/
+tmp/
+__pycache__/
+.venv/
+venv/
+node_modules/
+.DS_Store
+Thumbs.db
